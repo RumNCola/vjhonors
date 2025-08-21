@@ -1,11 +1,3 @@
-if __name__ == "__main__": # Solo para que no ejecutes este archivo
-    import sys
-    print(
-        "\033[38;2;255;0;0mESTE MODULO NO DEBE EJECUTARSE. EJECUTAR main.py\033[0m\n"
-        * 3
-    )
-    sys.exit()
-
 import pygame
 
 

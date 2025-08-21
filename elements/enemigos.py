@@ -1,15 +1,4 @@
-"""
-Hola este es modulo Bug,
-este modulo manejara la creacion y acciones de los Bugs
-"""
-
-if __name__ == "__main__": # Solo para que no ejecutes este archivo
-    import sys
-    print(
-        "\033[38;2;255;0;0mESTE MODULO NO DEBE EJECUTARSE. EJECUTAR main.py\033[0m\n"
-        * 3
-    )
-    sys.exit()
+# Módulo para los enemigos del juego
 
 import pygame
 import random

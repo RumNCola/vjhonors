@@ -15,9 +15,9 @@ import pygame
 
 from pygame.locals import (K_ESCAPE, KEYDOWN, QUIT)
 
-from elements.jorge import Player
+from elements.torres import Player
 
-from elements.bug import Enemy
+from elements.enemigos import Enemy
 
 
 def gameLoop():
